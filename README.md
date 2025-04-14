@@ -4,3 +4,5 @@ A repository for Happy Creeper Ghasts which changes 25w15a's (Adult) Happy Ghast
 Plans:
 - Use Minecraft's CIT to let any harness be named to "Sunglasses" instead of repurposing the white harness
 - Improve the textures and have a low-res and high-res versions (might likely borrow from other high quality texture packs, but will make my own regardless)
+
+Download this texture pack in [Modrinth](https://modrinth.com/resourcepack/happy-creeper-ghast) or directly download from here
